@@ -1,0 +1,8 @@
+li:nth-of-type(2n) {
+  background-color: pink;
+  font-size: 14px;
+}
+li:nth-of-type(2n+1) {
+  background-color: fuchsia;
+  font-size: 14px;
+}
